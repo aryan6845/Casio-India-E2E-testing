@@ -4,7 +4,7 @@ Welcome to the **Casio India E2E Testing** repository! This project is designed 
 
 ## 📝 Description
 
-This repository contains the automated end-to-end tests for Casio India, focusing on the following areas:
+dfsThis repository contains the automated end-to-end tests for Casio India, focusing on the following areas:
 - User authentication
 - Product browsing and cart functionality
 - Payment gateway validation
