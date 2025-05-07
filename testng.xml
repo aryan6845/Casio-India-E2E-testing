@@ -1,0 +1,14 @@
+<!-- testng.xml -->
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MySuite">
+    <test name="BasicTest">
+        <classes>
+            <class name="com.pom.tests.HomepageTest"/>
+            <class name="com.pom.tests.ProductsearchTest"/>
+            <class name="com.pom.tests.ProductdetailsTest"/>
+            <class name="com.pom.tests.ContactusTest"/>
+            <class name="com.pom.tests.FootersectionTest"/>
+        </classes>
+    </test>
+</suite>
