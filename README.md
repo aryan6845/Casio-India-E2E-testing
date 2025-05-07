@@ -1,4 +1,4 @@
-# Casio India E2E Testing tera ghata
+# Casio India E2E Testing
 
 Welcome to the **Casio India E2E Testing** repository! This project is designed for end-to-end testing of the Casio India website, ensuring that all user flows work seamlessly.
 
